@@ -10,5 +10,6 @@ Simple Port Scanner utlizing Python as a practice project. WIll improve
 python scanner.py --host scanme.nmap.org --ports 1-1024 --timeout 1
 
 ## Test purposes
-host = "scanme.nmap.org"
+host = "scanme.nmap.org"  
+
 host = "127.0.0.1"
